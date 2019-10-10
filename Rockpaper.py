@@ -68,6 +68,3 @@ while playing:
 			plays()
 		else:
 			pass
-
-
-
